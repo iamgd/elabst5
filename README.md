@@ -2,7 +2,7 @@
 # 📋 Project Overview
 
 This project demonstrates basic network traffic analysis using Wireshark.
-The goal was to capture, filter, and analyze packets generated during normal web activity to identify key network protocols and understand their roles in communication.
+The goal was to capture, filter and analyze packets generated during normal web activity to identify key network protocols and understand their roles in communication.
 
 # ⚙️ Steps Performed
 
@@ -59,6 +59,20 @@ The goal was to capture, filter, and analyze packets generated during normal web
  • Web Browser – To create HTTP and DNS requests.
 
  • CentralOps.net – Used to find the IP address of the target domain (elevatelabs.in).
+
+# 🧠 Key Learnings
+
+ • Gained understanding of how different protocols (DNS, TCP, HTTP) interact during normal web communication.
+
+ • Learned how to capture, filter and interpret packets in Wireshark.
+
+ • Observed packet structures and relationships between layers in the OSI model.
+
+# 🧾 Conclusion
+
+This exercise provided hands-on experience in network traffic analysis and protocol inspection using Wireshark.
+
+It helped visualize real-time data exchange and understand how requests, responses and handshakes occur in network communication.
 
 
 
