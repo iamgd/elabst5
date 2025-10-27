@@ -34,3 +34,10 @@ The goal was to capture, filter, and analyze packets generated during normal web
 
 •traffic_capture.pcap → Raw packet capture file.
 •README.md → Project documentation.
+
+# 🧩 Tools Used
+
+• Wireshark – For capturing and analyzing network packets.
+• Ping Command – To generate ICMP traffic.
+• Web Browser – To create HTTP and DNS requests.
+• CentralOps.net – Used to find the IP address of the target domain (elevatelabs.in).
